@@ -1,23 +1,47 @@
-<table>
-  <tr>
-    <th rowspan>#</th>
-    <th>Week Beginning</th>
-    <th>Topics</th>
-    <th colspan = "3"> Links </th>
+## 📅 **QMUL DSA Study Group – Weekly Schedule**
 
-  </tr>
-  <!-- Week 1 -->
-  <tr>
-    <td rowspan="3">1</td>
-    <td rowspan="3">20/10/25</td>
-    <td rowspan="3">Arrays & Hashing</td>
-    <td> <a href="https://leetcode.com/problems/concatenation-of-array" target="_blank" rel="noopener noreferrer">Concatenation of Array</a> 
-    </td>
-  </tr>
-  <tr>
-    <td> <a href="https://leetcode.com/problems/contains-duplicate/" target="_blank" rel="noopener noreferrer">Contains Duplicates</a> </td>
-  </tr>
-  <tr>
-    <td> <a href="https://leetcode.com/problems/valid-anagram/" target="_blank" rel="noopener noreferrer">Valid Anagram</a></td>
-  </tr>
-</table>
+> 🧠 Following the [NeetCode 250](https://neetcode.io/practice?tab=neetcode250)  
+> ⏰ Solving 3 problems per week  
+> 💬 Group meets Wednesdays 3–5 PM  
+> 🗓️ Last updated: **November 2025**
+
+---
+
+### 🗂️ **Week 1 — Arrays & Hashing (20/10/25)**
+
+|  #  | Problem                                                                         | Notes |
+| :-: | :------------------------------------------------------------------------------ | :---- |
+|  1  | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) |       |
+|  2  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)         |       |
+|  3  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                   |       |
+
+---
+
+### 🗂️ **Week 2 — Strings & Hash Maps (27/10/25)**
+
+|  #  | Problem                                                                       | Notes |
+| :-: | :---------------------------------------------------------------------------- | :---- |
+|  4  | [Two Sum](https://leetcode.com/problems/two-sum/)                             |       |
+|  5  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) |       |
+|  6  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)               |       |
+
+---
+
+### 🗂️ **Week 3 — Big O Notation and Common Data Structures (03/11/25)**
+
+|  #  | Topic                                                                 | Notes |
+| :-: | :-------------------------------------------------------------------- | :---- |
+|  —  | [Big O Notation](https://www.youtube.com/watch?v=rv_ZacJYRFA)         |       |
+|  —  | [Common Data Structures](https://www.youtube.com/watch?v=cQWr9DFE1ww) |       |
+
+---
+
+### 🗂️ **Week 4 — Arrays & Two Pointers (10/11/25)**
+
+|  #  | Problem                                                             | Notes |
+| :-: | :------------------------------------------------------------------ | :---- |
+|  7  | [Remove Element](https://leetcode.com/problems/remove-element/)     |       |
+|  8  | [Majority Element](https://leetcode.com/problems/majority-element/) |       |
+|  9  | [Reverse String](https://leetcode.com/problems/reverse-string/)     |       |
+
+---
